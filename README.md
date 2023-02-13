@@ -1,6 +1,6 @@
 ## Deployment
 
-Deployed on GitHub Pages, check [here] (https://rdpfeifle.github.io/expense-tracker-react).
+Deployed on GitHub Pages, check [here](https://rdpfeifle.github.io/expense-tracker-react).
 
 ## Credits
 
