@@ -1,5 +1,7 @@
 ## Deployment
 
+![Expense Tracker Screenshot](expense-tracker.png)
+
 Deployed on GitHub Pages, check [here](https://rdpfeifle.github.io/expense-tracker-react).
 
 ## Credits
